@@ -1,2 +1,2 @@
-# name_personal_website
-Personal website for FBU.
+# Personal Website for Meta University 
+Personal website for FBU. 
